@@ -1,4 +1,4 @@
-# gitStory
+# Learn-GIT
 
 Hello Learner !
 
