@@ -11,4 +11,7 @@ Are there not several resourses online to learn GIT/GITHUB , then why a new one 
   please follow tutorials in order to get the most out of them 
   
   Have fun learning !
+  
+  http://github.com - automatic!
+[GitHub](http://github.com)
 
