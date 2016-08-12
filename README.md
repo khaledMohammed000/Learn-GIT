@@ -12,6 +12,8 @@ Are there not several resourses online to learn GIT/GITHUB , then why a new one 
   
   Have fun learning !
   
-  http://github.com - automatic!
+  https://github.com/khaledMohammed000/Notes-Reflections/blob/master/lesson%201 - FAQ page 1
+  https://github.com/khaledMohammed000/Notes-Reflections/blob/master/lesson%202 - FAQ page 2
+  https://github.com/khaledMohammed000/Notes-Reflections/blob/master/lesson%203 - FAQ Page 3
 [GitHub](http://github.com)
 
